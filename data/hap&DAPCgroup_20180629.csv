@@ -1,0 +1,156 @@
+number,Location,Year,Species,Isolate,Source,Tox1hap,Tox3hap,ToxAhap,Matingtype1,Matingtype2,DAPCgroup
+109,WA,2015,P. nodorum,15FG04,This study,H01,H5,H10, ,1,1
+110,Dandaragan,2015,P. nodorum,15FG100,This study,H01,H1,H01, ,1,1
+111,Dandaragan,2015,P. nodorum,15FG101,This study,H02,H5,H01,1, ,1
+112,Dandaragan,2015,P. nodorum,15FG102,This study,H01,H10,H01, ,1,1
+113,Dandaragan,2015,P. nodorum,15FG103,This study,H01,H10,H01, ,1,1
+114,Dandaragan,2015,P. nodorum,15FG104,This study,H01,H5,H10, ,1,1
+115,Dandaragan,2015,P. nodorum,15FG105,This study,H01,H5,H01, ,1,1
+63,Jennacubbine,2014,P. nodorum,15FG107,This study,H01,H5,H10,1,,1
+64,Arrowsmith East,2014,P. nodorum,15FG109,This study,H01,H5,H10,1, ,1
+65,Southern Brook,2014,P. nodorum,15FG110,This study,H01,H2,H10,1, ,1
+66,Southern Brook,2014,P. nodorum,15FG111,This study,H02,H5,H01,1, ,1
+67,Southern Brook,2014,P. nodorum,15FG112,This study,H01,H1,H01,1, ,1
+68,Southern Brook,2014,P. nodorum,15FG113,This study,H01,H1,H01,1, ,1
+69,Southern Brook,2014,P. nodorum,15FG114,This study,H12,H1,H10, ,1,1
+70,Southern Brook,2014,P. nodorum,15FG115,This study,H01,H5,H10,1, ,1
+71,Southern Brook,2014,P. nodorum,15FG116,This study,H12,H1,H10, ,1,1
+72,Southern Brook,2014,P. nodorum,15FG117,This study,H12,H1,H10, ,1,1
+73,Southern Brook,2014,P. nodorum,15FG118,This study,H01,H5,H10, ,1,1
+74,Southern Brook,2014,P. nodorum,15FG119,This study,H01,H5,H10, ,1,1
+75,Jennacubbine,2014,P. nodorum,15FG120,This study,H02,H5,H01,1, ,1
+119,Cunderdin,2015,P. nodorum,15FG226,This study,H01,H5,H10,1,,1
+121,Esperance,2015,P. nodorum,15FG235,This study,H02,H5,H10,,1,1
+123,Northam,2015,P. nodorum,15FG28,This study,H01,H1,H10,1, ,1
+124,Northam,2015,P. nodorum,15FG31,This study,H01,H5,H10,1, ,1
+104,Arrowsmith East,2014,P. nodorum,15FG324,This study,H13,H1,H01,,1,1
+125,Northam,2015,P. nodorum,15FG33,This study,H01,H5,H10, ,1,1
+126,Muresk,2015,P. nodorum,15FG37,This study,H01,H5,H01,1, ,1
+127,Muresk,2015,P. nodorum,15FG38,This study,H01,H5,H10, ,1,1
+128,Muresk,2015,P. nodorum,15FG47,This study,H12,H1,H10, ,1,1
+129,Muresk,2015,P. nodorum,15FG49,This study,H12,H1,H10, ,1,1
+76,East Buntine,2014,P. nodorum,15FG53,This study,H01,H5,H10,,1,1
+130,Dandaragan,2015,P. nodorum,15FG99,This study,H01,H10,H10,1, ,1
+83,Wongan Hills,2014,P. nodorum,201FG49,This study,H01,H1,H10,1, ,1
+85,York,2014,P. nodorum,202FG414,This study,H01,H5,H10,1, ,1
+91,York,2014,P. nodorum,205FG142,This study,H01,H5,H01, ,1,1
+92,WA,2014,P. nodorum,205FG212,This study,H01,H5,H01,1,,1
+93,Regans Ford,2014,P. nodorum,205FG215,This study,H01,H5,H10,1, ,1
+95,Regans Ford,2014,P. nodorum,205FG225,This study,H01,H5,H10,1, ,1
+97,Wongan Hills,2014,P. nodorum,205FG63,This study,H01,no,H05,1, ,1
+101,Wongan Hills,2014,P. nodorum,206FG67,This study,H01,H1,H10,1, ,1
+116,Northam,2015,P. nodorum,FG106,This study,H01,H2,H10, ,1,1
+117,Northam,2015,P. nodorum,FG107,This study,H01,H2,H10,1, ,1
+118,Northam,2015,P. nodorum,FG108,This study,H02,H5,H10,1, ,1
+52,Murdoch,2011,P. nodorum,Mur_S3,ACNFP,H01,H5,H10, ,1,1
+136,Northam,2015,P. nodorum,Nor_RAC2182_1,This study,H01,H2,H10,,1,1
+137,Northam,2015,P. nodorum,Nor_RAC2182_2,This study,H12,H1,H01,,1,1
+132,Northam,2015,P. nodorum,Northam_Emu2,This study,H02,H1,H10,,1,1
+133,Northam,2015,P. nodorum,Northam_Mace1,This study,H01,H5,H10,1,,1
+135,Northam,2015,P. nodorum,Northam_Magenta,This study,H01,H1,H10,,1,1
+139,Northam,2015,P. nodorum,Northam_WGT,This study,H01,H5,H10,1,,1
+53,Geraldton,2012,P. nodorum,WAC13615,DPIRD,H19,H1,H01, ,1,1
+54,Geraldton,2012,P. nodorum,WAC13616,DPIRD,H01,H1,H01, ,1,1
+55,Geraldton,2012,P. nodorum,WAC13617,DPIRD,H01,H1,H01, ,1,1
+106,Eneabba,2014,P. nodorum,WAC739,DPIRD,H01,H2,H10, ,1,1
+107,Badgingarra,2014,P. nodorum,WAC740,DPIRD,H01,H2,H10, ,1,1
+108,Carnamah,2014,P. nodorum,WAC741,DPIRD,H01,H2,H10, ,1,1
+120,Eradu,2015,P. nodorum,15FG229,This study,H01,H1,H10,,1,2
+122,Esperance,2015,P. nodorum,15FG237,This study,H01,H5,H01,,1,2
+140,Mingenew,2016,P. nodorum,16FG06,This study,H01,H5,H10,1,,2
+141,Mingenew,2016,P. nodorum,16FG158,This study,H01,H2,H10,1,,2
+142,Mingenew,2016,P. nodorum,16FG159,This study,H01,H5,H01,,1,2
+77,Regans Ford,2014,P. nodorum,201FG208,This study,no,H2,H01, ,1,2
+78,Regans Ford,2014,P. nodorum,201FG209,This study,H01,H1,H01,1, ,2
+79,Regans Ford,2014,P. nodorum,201FG211,This study,H01,H2,H01, ,1,2
+80,Regans Ford,2014,P. nodorum,201FG217,This study,no,H5,H01, ,1,2
+81,Regans Ford,2014,P. nodorum,201FG218,This study,H01,H2,H10, ,1,2
+82,Regans Ford,2014,P. nodorum,201FG219,This study,H01,H5,H10, ,1,2
+84,Regans Ford,2014,P. nodorum,202FG212,This study,H01,H1,H10,1, ,2
+86,Regans Ford,2014,P. nodorum,203FG213,This study,H01,H1,H05, ,1,2
+105,Wongan Hills,2014,P. nodorum,203FG58,This study,H01,H1,H01, ,1,2
+87,Regans Ford,2014,P. nodorum,204FG214,This study,H01,H5,H01, ,1,2
+88,Regans Ford,2014,P. nodorum,204FG221,This study,H01,H2,H10, ,1,2
+89,Regans Ford,2014,P. nodorum,204FG222,This study,H01,H5,H01, ,1,2
+90,Regans Ford,2014,P. nodorum,204FG223,This study,H01,H1,H10, ,1,2
+94,Regans Ford,2014,P. nodorum,205FG216,This study,H01,H5,H10,1, ,2
+96,Wongan Hills,2014,P. nodorum,205FG410,This study,H01,H5,H01,1, ,2
+98,Regans Ford,2014,P. nodorum,206FG226,This study,H01,H5,H10, ,1,2
+99,Regans Ford,2014,P. nodorum,206FG227,This study,H01,H5,H10,1, ,2
+100,Wongan Hills,2014,P. nodorum,206FG66,This study,H01,H5,H01,1, ,2
+102,Wongan Hills,2014,P. nodorum,206FG68,This study,H01,H5,H18, ,1,2
+103,East Buntine,2014,P. nodorum,53FG143,This study,H01,H5,H10,1, ,2
+138,Eradu,2015,P. nodorum,FGW003_5,This study,H01,H5,H01,,1,2
+33,Geraldton,2011,P. nodorum,Gerald4,This study,H02,H5,H01,1, ,2
+26,Meckering,2009,P. nodorum,Meck1,ACNFP,H01,H5,H10,1, ,2
+27,Meckering,2009,P. nodorum,Meck3,ACNFP,H01,H5,H10, ,1,2
+28,Meckering,2009,P. nodorum,Meck6,ACNFP,H01,H2,H10,1, ,2
+29,Meckering,2009,P. nodorum,Meck8,This study,H02,H5,H10,1, ,2
+51,Murdoch,2011,P. nodorum,Mur_51,ACNFP,H01,H5,H10,NA,NA,2
+131,Northam,2015,P. nodorum,Northam_Emu1,This study,H01,H2,H10,,1,2
+134,Northam,2015,P. nodorum,Northam_Mace2,This study,H02,H5,H01,1,,2
+30,Meckering,2009,P. nodorum,S1FT3A,ACNFP,H01,H5,H10,1, ,2
+31,Meckering,2009,P. nodorum,S1FT3B,ACNFP,H01,H5,H10,1, ,2
+32,Meckering,2009,P. nodorum,S4FT3A,This study,H02,H5,H10, ,1,2
+16,Geraldton,2005,P. nodorum,WAC13068,DPIRD,H01,H5,H10,1, ,2
+17,Geraldton,2005,P. nodorum,WAC13069,DPIRD,H01,H5,H10,1, ,2
+19,Geraldton,2005,P. nodorum,WAC13071,DPIRD,H19,H14,H10,1, ,2
+20,Geraldton,2005,P. nodorum,WAC13072,DPIRD,H20,H1,H10, ,1,2
+21,Geraldton,2005,P. nodorum,WAC13073,DPIRD,H21,H1,H10, ,1,2
+25,Geraldton,2005,P. nodorum,WAC13077,DPIRD,H02,H1,H10, ,1,2
+34,Geraldton,2011,P. nodorum,WAC13402,DPIRD,H20,H1,H10, ,1,2
+38,Geraldton,2011,P. nodorum,WAC13443,DPIRD,H02,H1,H10, ,1,2
+41,Geraldton,2011,P. nodorum,WAC13523,DPIRD,H01,H5,H01,1,,2
+42,Geraldton,2011,P. nodorum,WAC13524,DPIRD,H01,H5,H10,1, ,2
+45,Geraldton,2011,P. nodorum,WAC13527,DPIRD,H01,H5,H10,1, ,2
+47,Geraldton,2011,P. nodorum,WAC13529,DPIRD,H01,H5,H10,1, ,2
+48,Geraldton,2011,P. nodorum,WAC13530,DPIRD,H01,H5,H10,1, ,2
+49,Geraldton,2011,P. nodorum,WAC13531,DPIRD,H22,H5,H10,1, ,2
+61,Geraldton,2013,P. nodorum,WAC13666,DPIRD,H01,H5,H18,1, ,2
+62,Geraldton,2013,P. nodorum,WAC13667,DPIRD,H01,H5,H18,1, ,2
+59,Dongara,2013,P. nodorum,WAC13690,DPIRD,H01,H2,H01, ,1,2
+60,Dongara,2013,P. nodorum,WAC13691,DPIRD,H01,H2,H01, ,1,2
+155,Northam,2016,P. nodorum,WAC13955,DPIRD,H01,H1,H10,,1,2
+1,WA,1972,P. nodorum,WAC2216,DPIRD,H01,H5,H01,1, ,2
+2,WA,1973,P. nodorum,WAC2285,DPIRD,H01,H5,H21,1, ,2
+5,WA,1985,P. nodorum,WAC4303,DPIRD,H01,H5,H10,1, ,2
+6,WA,1985,P. nodorum,WAC4319,DPIRD,H01,H5,H10,1, ,2
+4,Mount Barker,1985,P. nodorum,WAC4321,DPIRD,H01,H1,H10, ,1,2
+8,WA,1986,P. nodorum,WAC4648,DPIRD,H01,H5,H10,1, ,2
+7,East Chapman,1986,P. nodorum,WAC4808,DPIRD,H01,H5,H10, ,1,2
+10,Geraldton,1990,P. nodorum,WAC8384,DPIRD,H13,H5,H10, ,1,2
+9,Badgingarra,1990,P. nodorum,WAC8390,DPIRD,H01,H5,H10, ,1,2
+11,Badgingarra,1991,P. nodorum,WAC8410,DPIRD,H01,H2,H01, ,1,2
+15,WA,2001,P. nodorum,SN15,DPIRD,H01,H1,H10,1, ,3
+37,Geraldton,2011,P. nodorum,WAC13405,DPIRD,H01,H1,H10,1, ,3
+13,Geraldton,1996,P. nodorum,WAC13418,DPIRD,H01,H1,H10,1, ,3
+40,Geraldton,2011,P. nodorum,WAC13447,DPIRD,H01,H1,H10,1, ,3
+3,WA,1980,P. nodorum,WAC2813,DPIRD,H01,H1,H10,1, ,3
+12,WA,1994,P. nodorum,WAC8635,DPIRD,H01,H1,H10,1, ,3
+14,South Perth,1996,P. nodorum,WAC9178,DPIRD,H01,H1,H10,1, ,3
+18,Geraldton,2005,P. nodorum,WAC13070,DPIRD,H01,H5,H01, ,1,4
+22,Geraldton,2005,P. nodorum,WAC13074,DPIRD,H01,H5,H01, ,1,4
+23,Geraldton,2005,P. nodorum,WAC13075,DPIRD,H01,H5,H01, ,1,4
+24,Geraldton,2005,P. nodorum,WAC13076,DPIRD,H01,H5,H01, ,1,4
+35,Geraldton,2011,P. nodorum,WAC13403,DPIRD,H01,H5,H01, ,1,4
+36,Geraldton,2011,P. nodorum,WAC13404,DPIRD,H01,H5,H01, ,1,4
+39,Geraldton,2011,P. nodorum,WAC13446,DPIRD,H01,H5,H01, ,1,4
+43,Geraldton,2011,P. nodorum,WAC13525,DPIRD,H01,H5,H01, ,1,4
+44,Geraldton,2011,P. nodorum,WAC13526,DPIRD,H01,H5,H01, ,1,4
+46,Geraldton,2011,P. nodorum,WAC13528,DPIRD,H01,H5,H01, ,1,4
+50,Geraldton,2011,P. nodorum,WAC13532,DPIRD,H01,H5,H01, ,1,4
+56,Geraldton,2012,P. nodorum,WAC13630,DPIRD,H01,H5,H01, ,1,4
+57,Geraldton,2012,P. nodorum,WAC13631,DPIRD,H01,H5,H01, ,1,4
+58,Geraldton,2012,P. nodorum,WAC13632,DPIRD,H01,H5,H01, ,1,4
+143,Mingenew,2016,P. nodorum,16FG160,This study,H01,H2,H10,1,,5
+144,Mingenew,2016,P. nodorum,16FG161,This study,H01,H2,H10,1,,5
+145,Mingenew,2016,P. nodorum,16FG162,This study,H01,H2,H10,1,,5
+146,Mingenew,2016,P. nodorum,16FG163,This study,H01,H12,H10,1,1,5
+147,Mingenew,2016,P. nodorum,16FG164,This study,H01,H2,H10,1,,5
+148,Mingenew,2016,P. nodorum,16FG165,This study,H01,H2,H10,1,,5
+149,Mingenew,2016,P. nodorum,16FG166,This study,H01,H2,H10,1,,5
+150,Mingenew,2016,P. nodorum,16FG167,This study,H01,H2,H10,1,,5
+151,Mingenew,2016,P. nodorum,16FG168,This study,H01,H2,H10,1,,5
+152,Mingenew,2016,P. nodorum,16FG169,This study,H01,H2,H10,1,,5
+153,WA,2016,P. nodorum,16FG170,This study,H01,H2,H10,1,,5
+154,WA,2016,P. nodorum,16FG171,This study,H01,H2,H10,1,,5
