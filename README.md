@@ -1,5 +1,10 @@
 # Periodic Pyrrhic victories define the septoria nodorum blotch interaction
 
+
+
+[![DOI](https://zenodo.org/badge/145959785.svg)](https://zenodo.org/badge/latestdoi/145959785)
+
+
 The following scripts were used to analyse a data set of 28 SSR markers on 155 Australian Parastagonospora nodorum isolates, a necrotrophic pathogen of wheat, and generate Tables and Figures published in our paper "Periodic Pyrrhic victories define the septoria nodorum blotch interaction". The study is about: 1) population genetic structure of the isolates; 2) their effectors profiles; 3) and their implication in Australian breeding programs.
 
 Different steps were involved in the process including:
